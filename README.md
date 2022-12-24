@@ -1,6 +1,6 @@
-# Hi there, I'm Alex Miles 👋
+# Hi there, I'm Alex 👋
 
-[![Top aaa](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-nl-miles/)
+While you're here, make sure to check out my profile on  [![Top aaa](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-nl-miles/)
 
 <div align="center">
   <br/>
@@ -13,6 +13,12 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BiteSizeProblems&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiteSizeProblems)](https://github.com/anuraghazra/github-readme-stats)
+
+## Where to Find:
+
+To view some of my work with WPF, C# and .NET, check out my [Slipstream](https://github.com/BiteSizeProblems/SlipStream) and [F1 2021 Custom Points Model](https://github.com/BiteSizeProblems/F1-2021-Custom-Points-Model) respositories.
+
+To view some of my work with JavaScript, HTML, React, NodeJS and other web development technologies, check out League Life's frontend repository [here](https://github.com/BiteSizeProblems/leaguelife-client-public) or the backend repository [here](https://github.com/BiteSizeProblems/leaguelife-server-public).
 
 ## About Me:
 
@@ -30,6 +36,24 @@ Coming soon...
 
 <div align="center">
 
+<br/>
+  
+  ### Slipstream
+  
+  <br/>
+  
+  ### F1 2021 Custom Points Model
+  
+  <br/>
+  
+  ### Natural Disasters GIS
+  
+  <br/>
+  
+  ### League Life
+  
+  <br/>
+  
 <br/>
 
 ### Web Development:
