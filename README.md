@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on improving the performance of my League Life application.
 - 🌱 I’m currently learning best practices for continuous integration and delivery.
 - 💬 Ask me about the benefits of MVC or MVVM architecture design.
-- :racing_car: I'm an avid fan of motorsports and I hope to get back into racing myself soon.
+- :racing_car: I'm an avid fan of motorsports and hiking :mountain_snow:.
 - 📫 How to reach me: alexander-miles@outlook.com
 
 ## :white_check_mark: My Stats
