@@ -27,6 +27,8 @@ View some of my best work with JavaScript, HTML, React, NodeJS and other web dev
 
 Or, take a look at League Life in your browser [here](https://leaguelife.net).
 
+One of my earliest ReactJS projects included a [GIS application on natural disasters](https://github.com/BiteSizeProblems/Responsive-GIS-Web-App). To view how my projects develop over time, the ReadMe compares the original application with the current version.
+
 View some of my best work with WPF, C#, and .NET in my [Slipstream](https://github.com/BiteSizeProblems/SlipStream) and [F1 2021 Custom Points Model](https://github.com/BiteSizeProblems/F1-2021-Custom-Points-Model) respositories.
 
 <br/>
