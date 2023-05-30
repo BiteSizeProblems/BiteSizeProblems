@@ -4,12 +4,12 @@
   
 ## 	:technologist: About Me
 
-- 🎓 I have just completed my Master's degree program at Johns Hopkins University.
-- 🔭 I’m currently working on improving the performance of my League Life application.
-- 🌱 I’m currently learning best practices for continuous integration and delivery.
-- 💬 Ask me about the benefits of MVC or MVVM architecture design.
+- 🎓 I am a graduate of Johns Hopkins Data Analytics Master's Degree Program.
+- 🔭 I’m currently building a mobile application to manage online communities with React Native.
+- 🌱 I'm looking at ways to optimize data delivery and APIs.
+- 💬 Ask me about the benefits of an SPA.
 - :racing_car: I'm an avid fan of motorsports and hiking :mountain_snow:.
-- 📫 How to reach me: alexander-miles@outlook.com
+- 📫 You can reach me at: alexander-miles@outlook.com
 
 ## :white_check_mark: My Stats
 
